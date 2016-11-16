@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.8.1)
+    palindrome (1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  colorize
+  palindrome (= 1.0.0)
+
+RUBY VERSION
+   ruby 2.3.1p112
+
+BUNDLED WITH
+   1.13.6
